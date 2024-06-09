@@ -1,1 +1,1 @@
-# goit-frontend-development
+# goit-frontend-development-webstudio
